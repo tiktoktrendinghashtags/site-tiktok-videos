@@ -1,4 +1,4 @@
 {
   "name": "site-tiktok-videos",
-  "packageManager": "yarn"
+  "packageManager": "yarn@1.22.22"
 }
