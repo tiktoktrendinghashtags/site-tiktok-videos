@@ -1,4 +1,7 @@
 {
   "name": "site-tiktok-videos",
-  "packageManager": "yarn@1.22.22"
+  "packageManager": "yarn@1.22.22",
+  "scripts": {
+    "start": "yarn run publish"
+  }
 }
